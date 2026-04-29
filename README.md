@@ -80,6 +80,8 @@ The model uses the following patient attributes:
 7. Prediction
 
 ---
+<img width="975" height="404" alt="WhatsApp Image 2026-04-22 at 3 05 34 PM" src="https://github.com/user-attachments/assets/5b40c132-5721-451f-a15c-5d23a54e199f" />
+
 
 ## ⚠️ Disclaimer
 
